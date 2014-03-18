@@ -16,3 +16,4 @@ next steps
 Tracking ideas/progress on [trello](https://trello.com/b/k8dwYmAI/project-glu)
 
 -[@jasoncalabrese](https://twitter.com/jasoncalabrese)
+https://www.codeship.io/projects/697d1290-9091-0131-5793-325d0746b527/status
